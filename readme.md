@@ -6,7 +6,7 @@
 
 [GitHub](http://github.com/kgn) | [Dribbble](http://dribbble.com/kgn) | [Twitter](http://twitter.com/_kgn)
 
-I am a developer/designer and love being able to marry the two with a dash of user experience! I love designing an application or website in Photoshop and making it come alive in code. I have been programming for the web for over 10 years and for the Mac and iOS sense the iPhone SDK was released. I am proficient in a number of languages most notably being: objective-c, coffeescript/javascript, and python. I am an active member of both communities, [doing interviews](http://www.objectivesee.com/david.keegan.html), contributing open source to GitHub and posting work on Dribbble. I am also a contributor to the design focused blog [*The Industry*](http://theindustry.cc/author/david/) and also write design and development related posts for my [personal blog](http://kgn.github.com).
+I am a developer/designer and love being able to marry the two with a dash of user experience! I love designing an application or website in Photoshop and making it come alive in code. I have been programming for the web for over 10 years and for the Mac and iOS since the iPhone SDK was released. I am proficient in a number of languages most notably being: objective-c, coffeescript/javascript, and python. I am an active member of both communities, [doing interviews](http://www.objectivesee.com/david.keegan.html), contributing open source to GitHub and posting work on Dribbble. I am also a contributor to the design focused blog [*The Industry*](http://theindustry.cc/author/david/) and also write design and development related posts for my [personal blog](http://kgn.github.com).
 
 ## Independent Development
 
