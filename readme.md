@@ -29,9 +29,9 @@ Play by Play received a *9/10* from [mac.appstorm.net](http://mac.appstorm.net/r
 ### Blizzard Entertainment
 *February 2007 - Present*
 
-[Blizzard Entertainment](http://us.blizzard.com/en-us/) is a video game company known world wide for it's award winning titles like *World of Warcraft*, *Star Craft*, and *Diablo*.
+[Blizzard Entertainment](http://us.blizzard.com/en-us/) is a video game company known world wide for its award winning titles like *World of Warcraft*, *Star Craft*, and *Diablo*.
 
-During my time at Blizzard I was a software engineer for the cinematics team working on everything from animation to rendering. Creating tools used by artists, websites for approvals, and api's for other programmers.
+During my time at Blizzard I was a software engineer for the cinematics team working on everything from animation to rendering, creating tools used by artists, websites for approvals, and api's for other programmers.
 
 The most recent project I worked on was a ground up re-write of the lighting tool. This tool is a desktop application with the front end written completely with HTML, CSS/SASS, and coffeescript/javascript running inside of a custom build of chromium. My primary role on this team was to design the user interface/experience and build out most of it as well as build core functionality into the application.
 
@@ -42,7 +42,7 @@ The most recent project I worked on was a ground up re-write of the lighting too
 
 My responsibility on this show was the creation of software and pipelines for taking digital assets from concept paintings to final renders.
 
-In this role I developed software and webpages for: story boarding, an asset managements system with pdf batch exporting for outsourced contractors, and an approval website for the director and Nickelodeon executives to approve characters and concepts remotely.
+In this role I developed software and webpages for story boarding, an asset managements system with pdf batch exporting for outsourced contractors, and an approval website for the director and Nickelodeon executives to approve characters and concepts remotely.
 
 ### Omation | Barnyard Movie
 *August 2005 - July 2006*
