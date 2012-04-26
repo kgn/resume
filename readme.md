@@ -6,7 +6,9 @@
 
 [GitHub](http://github.com/kgn) | [Dribbble](http://dribbble.com/kgn) | [Twitter](http://twitter.com/_kgn)
 
-I am a developer/designer and love being able to marry the two with a dash of user experience! I love designing an application or website in Photoshop and making it come alive in code. I have been programming for the web for over 10 years and for the Mac and iOS since the iPhone SDK was released. I am proficient in a number of languages most notably being: objective-c, coffeescript/javascript, and python. I am an active member of both communities, [doing interviews](http://www.objectivesee.com/david.keegan.html), contributing open source to GitHub and posting work on Dribbble. I am also a contributor to the design focused blog [*The Industry*](http://theindustry.cc/author/david/) and also write design and development related posts for my [personal blog](http://kgn.github.com).
+*I love beautiful interfaces and code bases!*
+
+I am a developer/designer and love being able to marry the two with a dash of user experience! I am passionate about pixel-perfect interfaces and icons and enjoy designing an app or website in Photoshop and making it come alive in code. I have been programming for the web for over 10 years and for the Mac and iOS since the iPhone SDK was released. I am proficient in a number of languages most notably being: *objective-c*, *coffeescript/javascript*, and *python*. I am an active member in both the design and development communities, [doing interviews](http://www.objectivesee.com/david.keegan.html), contributing open source to GitHub and posting work on Dribbble. I am a contributor to the design focused blog [*The Industry*](http://theindustry.cc/author/david/) and also write design and development related posts for my [personal blog](http://kgn.github.com).
 
 ## Independent Development
 
@@ -14,11 +16,11 @@ I am a developer/designer and love being able to marry the two with a dash of us
 
 [Play by Play](http://playbyplayapp.com) is the first Mac client for the popular design community [Dribbble](http://dribbble.com).
 
-Play by Play received a *9/10* from [mac.appstorm.net](http://mac.appstorm.net/reviews/graphics/dribbble-on-your-desktop-with-play-by-play/) and was featured by Apple in *New and Noteworthy* for two weeks in February 2012.
+Play by Play received a *9/10* from [mac.appstorm.net](http://mac.appstorm.net/reviews/graphics/dribbble-on-your-desktop-with-play-by-play/) and was featured by Apple on the Mac App Store in *New and Noteworthy* in February 2012.
 
 ### Spectttator
 
-[Spectttator](https://github.com/kgn/Spectttator) is an open source framework for asynchronously communicating with the Dribbble api. Spectttator was developed for Play by Play.
+[Spectttator](https://github.com/kgn/Spectttator) is an open source framework for iOS and the Mac that makes it easy to asynchronously interact with the dribbble api. Spectttator is the core of Play by Play for the Mac and will be for the iOS version as well.
 
 ### INAppStoreWindow
 
@@ -29,11 +31,11 @@ Play by Play received a *9/10* from [mac.appstorm.net](http://mac.appstorm.net/r
 ### Blizzard Entertainment
 *February 2007 - Present*
 
-[Blizzard Entertainment](http://us.blizzard.com/en-us/) is a video game company known world wide for its award winning titles like *World of Warcraft*, *Star Craft*, and *Diablo*.
+[Blizzard Entertainment](http://us.blizzard.com/en-us/) is a video game company known world wide for its award winning titles: *World of Warcraft*, *Star Craft*, and *Diablo*.
 
-During my time at Blizzard I was a software engineer for the cinematics team working on everything from animation to rendering, creating tools used by artists, websites for approvals, and api's for other programmers.
+Over the past 5 years at Blizzard I have been a software engineer on the Cinematics team. This work has reached a wide gamut of technologies and disciplines. Everything from animation to rendering, creating tools used by artists, websites for approvals, and API's.
 
-The most recent project I worked on was a ground up re-write of the lighting tool. This tool is a desktop application with the front end written completely with HTML, CSS/SASS, and coffeescript/javascript running inside of a custom build of chromium. My primary role on this team was to design the user interface/experience and build out most of it as well as build core functionality into the application.
+Currently I am on the team responsible for writing a new in-house lighting tool. This tool is a desktop application with the front end written completely with HTML, CSS/SASS, and coffeescript/javascript running inside of a webkit frame. My primary role on this team is to design and implement much of the user interface/experience, but I also contribute to the core of the application as well.
 
 ### O Entertainment | Back at the Barnyard
 *July 2006 - February 2007*
@@ -42,7 +44,7 @@ The most recent project I worked on was a ground up re-write of the lighting too
 
 My responsibility on this show was the creation of software and pipelines for taking digital assets from concept paintings to final renders.
 
-In this role I developed software and webpages for story boarding, an asset managements system with pdf batch exporting for outsourced contractors, and an approval website for the director and Nickelodeon executives to approve characters and concepts remotely.
+In this role I developed software and webpages for story boarding, an asset managements system with pdf batch exporting for outsourced contractors, and an approval website for the director and Nickelodeon executives to review characters and concepts remotely.
 
 ### Omation | Barnyard Movie
 *August 2005 - July 2006*
