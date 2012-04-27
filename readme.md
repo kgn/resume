@@ -20,7 +20,7 @@ Play by Play received a *9/10* from [mac.appstorm.net](http://mac.appstorm.net/r
 
 ### Spectttator
 
-[Spectttator](https://github.com/kgn/Spectttator) is an open source framework for iOS and the Mac that makes it easy to asynchronously interact with the dribbble api. Spectttator is the core of Play by Play for the Mac and will be for the iOS version as well.
+[Spectttator](https://github.com/kgn/Spectttator) is an open source framework for iOS and the Mac that makes it easy to asynchronously interact with the Dribbble API. Spectttator is the core of Play by Play for the Mac and will be for the iOS version as well.
 
 ### INAppStoreWindow
 
