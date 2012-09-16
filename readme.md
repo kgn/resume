@@ -29,7 +29,7 @@ Play by Play received a *9/10* from [mac.appstorm.net](http://mac.appstorm.net/r
 ## Employment
 
 ### Blizzard Entertainment
-*February 2007 - Present*
+*February 2007 - May 2012*
 
 [Blizzard Entertainment](http://us.blizzard.com/en-us/) is a video game company known world wide for its award winning titles: *World of Warcraft*, *Star Craft*, and *Diablo*.
 
