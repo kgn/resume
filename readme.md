@@ -16,7 +16,7 @@ I am a developer/designer and love being able to marry the two with a dash of us
 
 [Play by Play](http://playbyplayapp.com) is the first Mac client for the popular design community [Dribbble](http://dribbble.com).
 
-Play by Play received a *9/10* from [mac.appstorm.net](http://mac.appstorm.net/reviews/graphics/dribbble-on-your-desktop-with-play-by-play/) and was featured by Apple on the Mac App Store in *New and Noteworthy* in February 2012.
+Play by Play received a *9/10* from [mac.appstorm.net](http://mac.appstorm.net/reviews/graphics/dribbble-on-your-desktop-with-play-by-play/) and was featured by Apple on the Mac App Store in *New and Noteworthy* in February 2012, and again in September 2012.
 
 ### Spectttator
 
