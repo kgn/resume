@@ -33,9 +33,9 @@ Play by Play received a *9/10* from [mac.appstorm.net](http://mac.appstorm.net/r
 
 [Blizzard Entertainment](http://us.blizzard.com/en-us/) is a video game company known world wide for its award winning titles: *World of Warcraft*, *Star Craft*, and *Diablo*.
 
-Over the past 5 years at Blizzard I have been a software engineer on the Cinematics team. This work has reached a wide gamut of technologies and disciplines. Everything from animation to rendering, creating tools used by artists, websites for approvals, and API's.
+For just over 5 years I was a software engineer on the Cinematics team. This work reached a wide gamut of technologies and disciplines. Everything from animation to rendering, creating tools used by artists, websites for approvals, and API's.
 
-Currently I am on the team responsible for writing a new in-house lighting tool. This tool is a desktop application with the front end written completely with HTML, CSS/SASS, and coffeescript/javascript running inside of a webkit frame. My primary role on this team is to design and implement much of the user interface/experience, but I also contribute to the core of the application as well.
+The last team I worked on was responsible for writing a new in-house lighting tool. This was a desktop application with the front end written completely with HTML, CSS/SASS, and coffeescript/javascript running inside of a webkit frame. My primary role on this team was to design and implement much of the user interface/experience, but I also contributed to the core of the application as well.
 
 ### O Entertainment | Back at the Barnyard
 *July 2006 - February 2007*
