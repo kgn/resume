@@ -16,7 +16,7 @@ I am a developer/designer and love being able to marry the two with a dash of us
 
 [Play by Play](http://playbyplayapp.com) is the first Mac client for the popular design community [Dribbble](http://dribbble.com).
 
-Play by Play received a *9/10* from [mac.appstorm.net](http://mac.appstorm.net/reviews/graphics/dribbble-on-your-desktop-with-play-by-play/) and was featured by Apple on the Mac App Store in *New and Noteworthy* in February 2012, again in September 2012, and was selected as one of the 28 apps to represent "App Enhanced for OSX Mountain Lion".
+Play by Play received a *9/10* from [mac.appstorm.net](http://mac.appstorm.net/reviews/graphics/dribbble-on-your-desktop-with-play-by-play/) and was featured by Apple on the Mac App Store in *New and Noteworthy* in February 2012, again in September 2012, and was selected as one of the 28 apps to represent "Apps Enhanced for OSX Mountain Lion".
 
 ### Spectttator
 
@@ -24,7 +24,7 @@ Play by Play received a *9/10* from [mac.appstorm.net](http://mac.appstorm.net/r
 
 ### INAppStoreWindow
 
-[INAppStoreWindow](https://github.com/indragiek/INAppStoreWindow) is an open source project that makes it easy to add a Mac App Store style title bar to your windows. This project was created by Indragie Karunaratne who asked me to join the project and I am now it's primary maintainer. This project has been used in apps like Sonora, Play by Play, Sparkbox, ReadNow, AIM for Mac Preview, and many more.
+[INAppStoreWindow](https://github.com/indragiek/INAppStoreWindow) is an open source project that makes it easy to add a Mac App Store style title bar to your windows. This project was created by Indragie Karunaratne who asked me to join the project after I'd contributed several pull requests. This project has been used in apps like Sonora, Play by Play, Sparkbox, ReadNow, AIM for Mac Preview, and many more.
 
 ### KGNoise
 
