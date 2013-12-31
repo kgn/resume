@@ -1,36 +1,26 @@
 # David Keegan
 
-[davidkeegan.com](http://davidkeegan.com)
+[Website](http://davidkeegan.com) | [GitHub](http://github.com/kgn) | [Dribbble](http://dribbble.com/kgn) | [Twitter](http://twitter.com/iamkgn)
 
-[me@davidkeegan.com](mailto:me@davidkeegan.com)
+I am a developer/designer and love being able to marry the two with a dash of user experience! I find this to be an extremely beneficial union for fast iteration, often quickly swapping back  and forth between Photoshop and Xcode to make sure the layout, colors, typography and icons are just right. Interactions and the way things move is so important to design language now, again I find this union to be a perfect fit for envisioning and executing not only the static design but realizing how it will work and look in motion.
 
-[GitHub](http://github.com/kgn) | [Dribbble](http://dribbble.com/kgn) | [Twitter](http://twitter.com/_kgn)
+I am heavily active in the design and development communities. I contribute regularly to Open Source projects, speak at conferences and on podcasts, and chat regularly with some of the top designers and developers in the industry.
 
-*I love beautiful interfaces and code bases!*
+### Personal Products
 
-I am a developer/designer and love being able to marry the two with a dash of user experience! I am passionate about pixel-perfect interfaces and icons and enjoy designing an app or website in Photoshop and making it come alive in code. I have been programming for the web for over 10 years and for the Mac and iOS since the iPhone SDK was released. I am proficient in a number of languages most notably being: *objective-c*, *coffeescript/javascript*, and *python*. I am an active member in both the design and development communities, [doing interviews](http://www.objectivesee.com/david.keegan.html), contributing open source to GitHub and posting work on Dribbble. I am a contributor to the design focused blog [*The Industry*](http://theindustry.cc/author/david/) and also write design and development related posts for my [personal blog](http://scriptogr.am/kgn).
+I've released several products independently to both the iOS and Mac App Stores. Most notably on the Mac App Store is my app [Play by Play](http://playbyplayapp.com) which received a *9/10* from [mac.appstorm.net](http://mac.appstorm.net/reviews/graphics/dribbble-on-your-desktop-with-play-by-play/) and was featured by Apple on the Mac App Store in *New and Noteworthy* in February 2012, again in September 2012, and was selected as one of the 28 apps to represent "Apps Enhanced for OSX Mountain Lion". On the iOS App Store my app [Notable](https://itunes.apple.com/us/app/notable-contact-notes-made/id582095892?mt=8) is a great way to keep notes on everyone you meet and [Hark](https://itunes.apple.com/us/app/hark-quick-text-to-speech/id715455614?mt=8) uses text to speech to help proofread important messages.
 
-## Independent Development
+### 1kLabs
+*January 2013 - Present*
 
-### Play by Play
+1kLabs is a startup/incubator I co-founded with some friends. We've focused on mobile social photo sharing apps and have released two to date. The first app was release in July 2013 and is a photo sharing app where users post photos of people, places, and things for their friends to guess called [Sesame](http://playsesame.com). Sesame was selected as one of the 10 apps shown at the [Parse Developer Day](http://www.youtube.com/watch?v=WBIEURobVx4#t=2680) in 2013. The second was released in November 2013 is a photo sharing app that allows users to share photos with beautiful hashtag overlays called [#Hashup](http://www.gohashup.com). I lead design and development for both of these products.
 
-[Play by Play](http://playbyplayapp.com) is the first Mac client for the popular design community [Dribbble](http://dribbble.com).
+### SignNow
+*May 2012 - October 2013*
 
-Play by Play received a *9/10* from [mac.appstorm.net](http://mac.appstorm.net/reviews/graphics/dribbble-on-your-desktop-with-play-by-play/) and was featured by Apple on the Mac App Store in *New and Noteworthy* in February 2012, again in September 2012, and was selected as one of the 28 apps to represent "Apps Enhanced for OSX Mountain Lion".
+[SignNow](http://signnow.com) is a digital document signing startup based out of Newport Beach that allows users to easily sign documents on their mobile device or the web as well as streamline the process of collecting signatures from multiple signers.
 
-### Spectttator
-
-[Spectttator](https://github.com/kgn/Spectttator) is an open source framework for iOS and the Mac that makes it easy to asynchronously interact with the Dribbble API. Spectttator is the core of Play by Play for the Mac and will be for the iOS version as well.
-
-### INAppStoreWindow
-
-[INAppStoreWindow](https://github.com/indragiek/INAppStoreWindow) is an open source project that makes it easy to add a Mac App Store style title bar to your windows. This project was created by Indragie Karunaratne who asked me to join the project after I'd contributed several pull requests. This project has been used in apps like Sonora, Play by Play, Sparkbox, ReadNow, AIM for Mac Preview, and many more.
-
-### KGNoise
-
-[KGNoise](https://github.com/kgn/KGNoise) is a open source project that provides methods to draw noise in code, without the use of images, which can be used to add noise to views and other interface elements. This project was featured on [The Change Log](http://thechangelog.com/post/31402336612/kgnoise-the-easiest-way-to-draw-noise-in-objective-c) and other blogs, and became one of the most watched objective-c repositories on Github in September 2012.
-
-## Employment
+While at SignNow I lead iOS design & development. In addition to designing and developing the app utilized all of my skills and talents to help streamline and promote the product. I shot beautiful photographs of the app for marketing and tutorial content. Wrote a build system from scratch that automatically built the app and distributed it to the team for testing. I also lead many of the in-person user experience tests we ran on the product to help refine new features.
 
 ### Blizzard Entertainment
 *February 2007 - May 2012*
