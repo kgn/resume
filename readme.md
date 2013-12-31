@@ -20,7 +20,7 @@ I've released several products independently to both the iOS and Mac App Stores.
 
 [SignNow](http://signnow.com) is a digital document signing startup based out of Newport Beach that allows users to easily sign documents on their mobile device or the web as well as streamline the process of collecting signatures from multiple signers.
 
-While at SignNow I lead iOS design & development. In addition to designing and developing the app utilized all of my skills and talents to help streamline and promote the product. I shot beautiful photographs of the app for marketing and tutorial content. Wrote a build system from scratch that automatically built the app and distributed it to the team for testing. I also lead many of the in-person user experience tests we ran on the product to help refine new features.
+While at SignNow I led iOS design & development. In addition to designing and developing the app utilized all of my skills and talents to help streamline and promote the product. I shot beautiful photographs of the app for marketing and tutorial content. Wrote a build system from scratch that automatically built the app and distributed it to the team for testing. I also led many of the in-person user experience tests we ran on the product to help refine new features.
 
 ### Blizzard Entertainment
 *February 2007 - May 2012*
